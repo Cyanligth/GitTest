@@ -6,8 +6,6 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("우하하");
-            Player player = new Player();
-            player.Attack();
         }
     }
 }
